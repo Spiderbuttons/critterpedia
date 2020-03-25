@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/critterpedia/static/css/main.57c0efb7.chunk.css",
+    "main.js": "/critterpedia/static/js/main.b290c471.chunk.js",
+    "main.js.map": "/critterpedia/static/js/main.b290c471.chunk.js.map",
+    "runtime-main.js": "/critterpedia/static/js/runtime-main.039caebe.js",
+    "runtime-main.js.map": "/critterpedia/static/js/runtime-main.039caebe.js.map",
+    "static/js/2.be21d47c.chunk.js": "/critterpedia/static/js/2.be21d47c.chunk.js",
+    "static/js/2.be21d47c.chunk.js.map": "/critterpedia/static/js/2.be21d47c.chunk.js.map",
+    "index.html": "/critterpedia/index.html",
+    "precache-manifest.93d9372a2074007128260e7d9a74b20a.js": "/critterpedia/precache-manifest.93d9372a2074007128260e7d9a74b20a.js",
+    "service-worker.js": "/critterpedia/service-worker.js",
+    "static/css/main.57c0efb7.chunk.css.map": "/critterpedia/static/css/main.57c0efb7.chunk.css.map",
+    "static/js/2.be21d47c.chunk.js.LICENSE.txt": "/critterpedia/static/js/2.be21d47c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.039caebe.js",
+    "static/js/2.be21d47c.chunk.js",
+    "static/css/main.57c0efb7.chunk.css",
+    "static/js/main.b290c471.chunk.js"
+  ]
+}
